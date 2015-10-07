@@ -1,14 +1,5 @@
 <?php
 
-namespace App\Teamspeak\Viewer;
-
-use TeamSpeak3;
-use TeamSpeak3_Helper_String;
-use TeamSpeak3_Node_Abstract;
-use TeamSpeak3_Node_Client;
-use TeamSpeak3_Node_Server;
-use TeamSpeak3_Viewer_Html;
-
 class Teamspeak3_Viewer_ModernHtml extends TeamSpeak3_Viewer_Html
 {
     /**
